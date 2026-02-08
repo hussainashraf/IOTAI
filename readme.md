@@ -1,0 +1,1 @@
+This repository is a playground of my hobby projects and real-world problems I stumble upon in daily life, explored and solved using technology. 
